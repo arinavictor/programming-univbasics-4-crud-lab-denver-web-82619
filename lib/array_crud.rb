@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [hoop, necklace, earring, bracelet]
+  ["ring", "necklace", "earrings", "bracelet"]
 end
 
 def add_element_to_end_of_array(array, element)
